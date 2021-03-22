@@ -3,6 +3,7 @@
 
 # Log file
 *.log
+log.txt*
 
 # BlueJ files
 *.ctxt
@@ -21,3 +22,4 @@ hs_err_pid*
 # Folders
 /bin/
 /log/
+
